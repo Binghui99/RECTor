@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use RECTor, please cite the article below."
+title: "RECTor: Robust and Efficient Correlation Attack on Tor"
+type: software
+authors:
+  - family-names: Wu
+    given-names: Binghui
+  - family-names: Mon Divakaran
+    given-names: Dinil
+  - family-names: Csikor
+    given-names: Levente
+  - family-names: Gurusamy
+    given-names: Mohan
+doi: 10.1109/MCOM.001.2500251
+date-released: 2026-01-29
+

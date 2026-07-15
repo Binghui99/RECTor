@@ -1,0 +1,19 @@
+# Reference configuration matching the public implementation defaults.
+seed: 42
+data:
+  window_seconds: 5.0
+  stride_seconds: 2.0
+  num_windows: 11
+  max_packets: 500
+  ingress_size_threshold: 512
+  egress_size_threshold: 66
+model:
+  hidden_size: 64
+  gru_layers: 2
+  bidirectional: false
+training:
+  margin: 0.1
+  batch_size: 128
+  epochs: 1000
+  learning_rate: 0.001
+
